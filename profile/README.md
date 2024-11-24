@@ -6,7 +6,7 @@
 Skinalyze proposes an android-based application that can help people perform early detection to prevent the spread of skin disease on the body. With the help of machine learning technology, early detection of skin diseases in humans is expected to become easier, thereby reducing the risk and potential issues of more severe health complications. This app is designed as a quick and easy-to-use tool, allowing users to perform an initial diagnosis of their skin condition directly from their device. The app is easily accessible to a wide range of users and provides information from trusted sources.
 
 ## Developers
- <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy led by Google, GoTo, and Traveloka 2023 Batch 1</a>
+ <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy led by Google, GoTo, and Traveloka 2024 Batch 2</a>
  
 C242-PS492 Capstone Team - Skinalyze
 
