@@ -1,4 +1,4 @@
-<h1>About Skinalyze</h1> 
+<h1>About Skinalyze</h1>
 
 ### Team ID : C242-PS492
 
