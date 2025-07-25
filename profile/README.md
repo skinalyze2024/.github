@@ -17,7 +17,7 @@ C242-PS492 Capstone Team - Skinalyze
 - [CC] C487B4KX3444 - <a href="https://github.com/Nufa-nur" title="Github Nurul Fadhilah" target="_blank">Nurul Fadilah</a> - Universitas Alma Ata Yogyakarta
 - [MD]	A581B4KY2945 - <a href="https://github.com/muftiardani" title="Github Muhammad Mufti Ardani" target="_blank">Muhammad Mufti Ardani</a> - Universitas Nahdlatul Ulama Yogyakarta
 - [ML] M008B4KX4157 - <a href="https://github.com/sintaalfirm" title="Github Sinta Alfi R" target="_blank">Sinta Alfi Royanul M</a> - Universitas Gadjah Mada
-- [ML] M581B4KX4378 - <a href="https://github.com/XIEXID" title="GitHub Umi Inayatul Hidayah" target="_blank">Umi Inayatul Hidayah</a> - Universitas Nahdlatul Ulama Yogyakarta
+- [ML] M581B4KX4378 - <a href="https://github.com/UmiHidayah12" title="GitHub Umi Inayatul Hidayah" target="_blank">Umi Inayatul Hidayah</a> - Universitas Nahdlatul Ulama Yogyakarta
 - [ML] M008B4KX3227- <a href="https://github.com/azkanajieda" title="GitHub Najieda Azka" target="_blank">Najieda Azka</a> - Universitas Gadjah Mada
 
 ## Dataset and Classes
@@ -27,4 +27,4 @@ C242-PS492 Capstone Team - Skinalyze
 * Carcinoma
 * Acne
 * Herpes
-* vitiligo
+* Vitiligo
