@@ -2,7 +2,6 @@
 
 ### Team ID : C242-PS492
 
-
 **Skinalyze** is an Android-based app that utilizes image detection features and provides quick and accurate results regarding various skin conditions, offers relevant information and provides recommendations for early handling of related diseases.
 
 ## Background
@@ -10,7 +9,6 @@ Skinalyze proposes an android-based application that can help people perform ear
 
 ## Developers
  <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy led by Google, GoTo, and Traveloka 2024 Batch 2</a>
-
 - [CC] C487B4KY027 - <a href="https://github.com/aznsylm" title="Github Aizan Syalim" target="_blank">Aizan Syalim</a> - Universitas Alma Ata Yogyakarta
 - [CC] C487B4KX3444 - <a href="https://github.com/Nufa-nur" title="Github Nurul Fadhilah" target="_blank">Nurul Fadilah</a> - Universitas Alma Ata Yogyakarta
 - [MD]	A581B4KY2945 - <a href="https://github.com/muftiardani" title="Github Muhammad Mufti Ardani" target="_blank">Muhammad Mufti Ardani</a> - Universitas Nahdlatul Ulama Yogyakarta
