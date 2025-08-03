@@ -1,13 +1,13 @@
-<h1>About Skinalyze</h1>
+<h1>Diagnose Your Skin Early</h1>
 
 ### Team ID : C242-PS492
 
-**Skinalyze** is an Android-based app that utilizes image detection features and provides quick and accurate results regarding various skin conditions, offers relevant information and provides recommendations for early handling of related diseases.
+**SKINALYZE** is an Android-based app that utilizes image detection features and provides quick and accurate results regarding various skin conditions, offers relevant information and provides recommendations for early handling of related diseases.
 
 ## Background
 Skinalyze proposes an android-based application that can help people perform early detection to prevent the spread of skin disease on the body. With the help of machine learning technology, early detection of skin diseases in humans is expected to become easier, thereby reducing the risk and potential issues of more severe health complications. This app is designed as a quick and easy-to-use tool, allowing users to perform an initial diagnosis of their skin condition directly from their device. The app is easily accessible to a wide range of users and provides information from trusted sources.
 
-## Developers
+## Developers Team
  <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy led by Google, GoTo, and Traveloka 2024 Batch 2</a>
 - [CC] C487B4KY027 - <a href="https://github.com/aznsylm" title="Github Aizan Syalim" target="_blank">Aizan Syalim</a> - Universitas Alma Ata Yogyakarta
 - [CC] C487B4KX3444 - <a href="https://github.com/Nufa-nur" title="Github Nurul Fadhilah" target="_blank">Nurul Fadilah</a> - Universitas Alma Ata Yogyakarta
